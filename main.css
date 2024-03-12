@@ -79,4 +79,8 @@ section h2{
     color:white;
     background-color:green;
 }
+.articles article a{
+    text-decoration: none;
+}
+
 
